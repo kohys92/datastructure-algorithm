@@ -31,10 +31,14 @@ class linkedList:
         print("None")
 
 ll = linkedList()
-ll.printLinkedList()
+# ll.printLinkedList()
 ll.insert("3")
-ll.printLinkedList()
+# ll.printLinkedList()
 ll.insert("44")
-ll.printLinkedList()
+# ll.printLinkedList()
 ll.insert("55")
+# ll.printLinkedList()
+
+ll.get(1)
 ll.printLinkedList()
+
