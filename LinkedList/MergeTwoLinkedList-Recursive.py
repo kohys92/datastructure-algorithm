@@ -27,7 +27,7 @@
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
 
-        # Recursive approach
+        # Recursive method approach
 
         if list1 is None: return list2
         if list2 is None: return list1
