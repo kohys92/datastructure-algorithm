@@ -1,15 +1,10 @@
 
-data = set([1, 2, 3])
-print(data)
 
-# 새로운 원소 추가
-data.add(4)
-print(data)
+def add(a, b):
+    return a + b
 
-# 새로운 원소 여러 개 추가
-data.update([5,6])
-print(data)
+# 일반적인 add() 메서드 사용
+print(add(3, 7))
 
-# 특정한 값을 갖는 원소 삭제
-data.remove(3)
-print(data)
+# 람다 표현식으로 구현한 add() 메서드
+print((lambda a, b: a+b)(3, 7))
