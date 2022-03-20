@@ -1,8 +1,8 @@
 # Datastructure & Algorithm with Python
 
 ### Referece
-- 이것이 코딩 테스트다 with Python - 나동빈 
-- 자료구조와 함께 배우는 알고리즘 입문 (파이썬편) - BohYoh Shibata
+- 이것이 코딩 테스트다 with Python 
+- 자료구조와 함께 배우는 알고리즘 입문 (파이썬편)
 
 ## 코딩테스트를 위해 꼭 알아야 할 파이썬 기본 문법
 + [자료구조와 배열](https://github.com/kohys92/datastructure-algorithm/blob/2c4bfbee53f3db39195d389c073dc637b3ff3b73/datastructure/listTuple.md)
